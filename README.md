@@ -2,10 +2,7 @@
 # CUSTOMER CHURN PREDICTION 
 
 Churn rate is a marketing metric that describes the number of customers who leave a business over a specific time period. Understanding and detecting churn is the first step to retaining these customers and improving the company’s offerings.
-
-
-
-https://images.squarespace-cdn.com/content/v1/588f9607bebafbc786f8c5f8/1607924812500-Y1JR8L6XP5NKF2YPHDUX/image6.png
+![image6](https://github.com/Ganesh-xvi/CUSTOMER-CHURN-PREDICTION/assets/134574667/bc2bc8ff-c43a-41f1-a49a-6658f4966a9b)
 ## Problem Statement
 
 Goal is to predict the churn for a website based on the features provided in the dataset. Customer will EXIT(1) or NOT(0), and identify customers who are likely to leave so that we can retain then with some special offers on membership.
